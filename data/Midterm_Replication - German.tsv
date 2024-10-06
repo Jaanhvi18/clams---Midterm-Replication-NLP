@@ -1,0 +1,15 @@
+sentid 	comparison 	contextid 	pairid 	comparison 	condition                      	sentence                                                                                        	ROI
+     1 	BERT-mBERT 	        1 	     1 	expected   	Long Verb coordination         	der Schriftsteller spricht viele verschiedene Sprachen und spricht viele verschiedene Sprachen  	  7
+     2 	BERT-mBERT 	        2 	     1 	unexpected 	Long Verb coordination         	der Schriftsteller spricht viele verschiedene Sprachen und sprechen viele verschiedene Sprachen 	  7
+     3 	BERT-mBERT 	        3 	     2 	expected   	Verb coordination              	der Schriftsteller schwimmt und schwimmt                                                        	  4
+     4 	BERT-mBERT 	        4 	     2 	unexpected 	Verb coordination              	der Schriftsteller schwimmt und schwimmen                                                       	  4
+     5 	BERT-mBERT 	        5 	     3 	expected   	Object-relation across animacy 	die Schriftsteller , die die Wächter mögen , schwimmen                                          	  6
+     6 	BERT-mBERT 	        6 	     3 	unexpected 	Object-relation across animacy 	die Schriftsteller , die die Wächter mögen , schwimmt                                           	  6
+     7 	BERT-mBERT 	        7 	     4 	expected   	Object-relation within animacy 	die Schriftsteller , die die Wächter mögen , schwimmen                                          	  5
+     8 	BERT-mBERT 	        8 	     4 	unexpected 	Object-relation within animacy 	die Schriftsteller , die die Wächter mag , schwimmen                                            	  5
+     9 	BERT-mBERT 	        9 	     5 	expected   	Preposition animacy            	die Schriftsteller vor den Wächter sind alt                                                     	  5
+    10 	BERT-mBERT 	       10 	     5 	unexpected 	Preposition animacy            	die Schriftsteller vor den Wächter ist alt                                                      	  5
+    11 	BERT-mBERT 	       11 	     6 	expected   	Simple agreement               	die Schriftsteller sind alt                                                                     	  2
+    12 	BERT-mBERT 	       12 	     6 	unexpected 	Simple agreement               	die Schriftsteller ist alt                                                                      	  2
+    13 	BERT-mBERT 	       13 	     7 	expected   	Subject relation               	die Schriftsteller , die die Wächter mögen , schwimmen                                          	  6
+    14 	BERT-mBERT 	       14 	     7 	unexpected 	Subject relation               	die Schriftsteller , die die Wächter mögen , schwimmt                                           	  6

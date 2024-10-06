@@ -1,0 +1,12 @@
+exp: MinimalPair
+
+mode:
+    - evaluate
+
+models: 
+      hf_masked_model:
+          - bert-base-cased
+
+datafpath: data/Midterm_Replication - German.tsv
+
+predfpath: output/German.tsv
