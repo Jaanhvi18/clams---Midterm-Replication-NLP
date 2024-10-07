@@ -54,8 +54,9 @@ def format_sentence_file(language, file_paths, output_dir):
                             "contextid": context_id,
                             "pairid": pair_id,
                             "comparison": comparison,
+                            "lemma": "placeholder",
                             "sentence": clean_sentence,
-                            "ROI": len(clean_sentence.split()),
+                            "ROI": len(clean_sentence.split())
                         }
                     )
                     sentence_id += 1

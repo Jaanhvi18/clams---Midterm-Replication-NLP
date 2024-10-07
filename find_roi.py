@@ -5,9 +5,7 @@ import glob
 
 input_folder = "formatted_data"
 output_folder = "output"
-os.makedirs(
-    output_folder, exist_ok=True
-)  
+os.makedirs(output_folder, exist_ok=True)
 
 file_paths = glob.glob(os.path.join(input_folder, "*.tsv"))
 
@@ -24,7 +22,6 @@ def find_first_different_word_index(sentence1, sentence2):
             return i
 
     return None
-
 
 
 for file_path in file_paths:
@@ -51,6 +48,7 @@ for file_path in file_paths:
                     "contextid": sentence_pair.iloc[0]["contextid"],
                     "pairid": sentence_pair.iloc[0]["pairid"],
                     "comparison": sentence_pair.iloc[0]["comparison"],
+                    "lemma": sentence_pair.iloc[0]["lemma"],
                     "sentence": sentence1,
                     "ROI": diff_index,
                 }
@@ -64,11 +62,11 @@ for file_path in file_paths:
                     "contextid": sentence_pair.iloc[1]["contextid"],
                     "pairid": sentence_pair.iloc[1]["pairid"],
                     "comparison": sentence_pair.iloc[1]["comparison"],
+                    "lemma": sentence_pair.iloc[1]["lemma"],
                     "sentence": sentence2,
                     "ROI": diff_index,
                 }
             )
-
 
     updated_df = pd.DataFrame(updated_rows)
 
