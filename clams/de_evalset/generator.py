@@ -1,7 +1,7 @@
 import sys
 import os
 import argparse
-from grammar import Grammar
+from clams.de_evalset.grammar import Grammar
 
 
 parser = argparse.ArgumentParser()
