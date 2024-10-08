@@ -1,0 +1,14 @@
+exp: MinimalPair
+
+mode:
+    - evaluate
+
+models:
+  hf_masked_model:
+    - bert-base-multilingual-cased
+        
+datafpath: data/german_formatted.tsv
+
+predfpath: predictions/german.tsv
+
+batchSize: 1000

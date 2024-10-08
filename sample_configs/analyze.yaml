@@ -1,0 +1,16 @@
+exp: MinimalPair
+
+mode:
+    - analyze
+
+models:
+  hf_masked_model:
+    - bert-base-multilingual-cased
+        
+datafpath: res2/russian_updated.tsv
+
+predfpath: res2/pred/russian.tsv
+
+resultsfpath: res2/analyze/russian.tsv
+
+pred_measure: prob
