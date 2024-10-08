@@ -1,0 +1,339 @@
+sentid	condition	contextid	pairid	comparison	lemma	sentence	ROI
+111	obj_rel_across_anim	111	56	expected	placeholder	офицеры  которых агенты любят  большие	4
+112	obj_rel_across_anim	112	56	unexpected	placeholder	офицеры  которых агенты любят  большой	4
+1333	obj_rel_across_anim	1333	667	expected	placeholder	профессора  которых отцы любят  ждали	4
+1334	obj_rel_across_anim	1334	667	unexpected	placeholder	профессора  которых отцы любят  ждал	4
+2217	obj_rel_across_anim	2217	1109	expected	placeholder	пилоты  которых танцоры хотят  читают	4
+2218	obj_rel_across_anim	2218	1109	unexpected	placeholder	пилоты  которых танцоры хотят  читает	4
+3489	obj_rel_across_anim	3489	1745	expected	placeholder	ученики  которых солдаты понимают  ждали	4
+3490	obj_rel_across_anim	3490	1745	unexpected	placeholder	ученики  которых солдаты понимают  ждал	4
+4545	obj_rel_across_anim	4545	2273	expected	placeholder	сенаторы  которых рабочие ищут  маленькие	4
+4546	obj_rel_across_anim	4546	2273	unexpected	placeholder	сенаторы  которых рабочие ищут  маленький	4
+4669	obj_rel_across_anim	4669	2335	expected	placeholder	врачи  которых помощники ищут  старые	4
+4670	obj_rel_across_anim	4670	2335	unexpected	placeholder	врачи  которых помощники ищут  старый	4
+6351	obj_rel_across_anim	6351	3176	expected	placeholder	врачи  которых танцор любит  маленькие	4
+6352	obj_rel_across_anim	6352	3176	unexpected	placeholder	врачи  которых танцор любит  маленький	4
+6855	obj_rel_across_anim	6855	3428	expected	placeholder	ученики  которых художник любит  маленькие	4
+6856	obj_rel_across_anim	6856	3428	unexpected	placeholder	ученики  которых художник любит  маленький	4
+7481	obj_rel_across_anim	7481	3741	expected	placeholder	сенаторы  которых помощник хочет  читают	4
+7482	obj_rel_across_anim	7482	3741	unexpected	placeholder	сенаторы  которых помощник хочет  читает	4
+7757	obj_rel_across_anim	7757	3879	expected	placeholder	сенаторы  которых танцор хочет  говорят	4
+7758	obj_rel_across_anim	7758	3879	unexpected	placeholder	сенаторы  которых танцор хочет  говорит	4
+8565	obj_rel_across_anim	8565	4283	expected	placeholder	режиссёры  которых министр понимает  молодые	4
+8566	obj_rel_across_anim	8566	4283	unexpected	placeholder	режиссёры  которых министр понимает  молодой	4
+8891	obj_rel_across_anim	8891	4446	expected	placeholder	профессора  которых помощник понимает  говорят	4
+8892	obj_rel_across_anim	8892	4446	unexpected	placeholder	профессора  которых помощник понимает  говорит	4
+9877	obj_rel_across_anim	9877	4939	expected	placeholder	профессора  которых агент ищет  старые	4
+9878	obj_rel_across_anim	9878	4939	unexpected	placeholder	профессора  которых агент ищет  старый	4
+10251	obj_rel_across_anim	10251	5126	expected	placeholder	фермеры  которых помощник ищет  ждали	4
+10252	obj_rel_across_anim	10252	5126	unexpected	placeholder	фермеры  которых помощник ищет  ждал	4
+11237	obj_rel_across_anim	11237	5619	expected	placeholder	фермер  которого агенты любят  маленький	4
+11238	obj_rel_across_anim	11238	5619	unexpected	placeholder	фермер  которого агенты любят  маленькие	4
+11435	obj_rel_across_anim	11435	5718	expected	placeholder	клиент  которого министры любят  молодой	4
+11436	obj_rel_across_anim	11436	5718	unexpected	placeholder	клиент  которого министры любят  молодые	4
+11587	obj_rel_across_anim	11587	5794	expected	placeholder	офицер  которого рабочие любят  маленький	4
+11588	obj_rel_across_anim	11588	5794	unexpected	placeholder	офицер  которого рабочие любят  маленькие	4
+11839	obj_rel_across_anim	11839	5920	expected	placeholder	профессор  которого солдаты любят  маленький	4
+11840	obj_rel_across_anim	11840	5920	unexpected	placeholder	профессор  которого солдаты любят  маленькие	4
+12695	obj_rel_across_anim	12695	6348	expected	placeholder	клиент  которого агенты хотят  молодой	4
+12696	obj_rel_across_anim	12696	6348	unexpected	placeholder	клиент  которого агенты хотят  молодые	4
+13019	obj_rel_across_anim	13019	6510	expected	placeholder	ученик  которого рабочие хотят  большой	4
+13020	obj_rel_across_anim	13020	6510	unexpected	placeholder	ученик  которого рабочие хотят  большие	4
+13693	obj_rel_across_anim	13693	6847	expected	placeholder	пилот  которого лидеры хотят  говорит	4
+13694	obj_rel_across_anim	13694	6847	unexpected	placeholder	пилот  которого лидеры хотят  говорят	4
+14053	obj_rel_across_anim	14053	7027	expected	placeholder	врач  которого агенты понимают  молодой	4
+14054	obj_rel_across_anim	14054	7027	unexpected	placeholder	врач  которого агенты понимают  молодые	4
+14067	obj_rel_across_anim	14067	7034	expected	placeholder	сенатор  которого агенты понимают  молодой	4
+14068	obj_rel_across_anim	14068	7034	unexpected	placeholder	сенатор  которого агенты понимают  молодые	4
+16049	obj_rel_across_anim	16049	8025	expected	placeholder	клиент  которого солдаты ищут  читает	4
+16050	obj_rel_across_anim	16050	8025	unexpected	placeholder	клиент  которого солдаты ищут  читают	4
+16073	obj_rel_across_anim	16073	8037	expected	placeholder	пилот  которого солдаты ищут  говорит	4
+16074	obj_rel_across_anim	16074	8037	unexpected	placeholder	пилот  которого солдаты ищут  говорят	4
+16319	obj_rel_across_anim	16319	8160	expected	placeholder	профессор  которого архитекторы ищут  маленький	4
+16320	obj_rel_across_anim	16320	8160	unexpected	placeholder	профессор  которого архитекторы ищут  маленькие	4
+16471	obj_rel_across_anim	16471	8236	expected	placeholder	клиент  которого лидеры ищут  старый	4
+16472	obj_rel_across_anim	16472	8236	unexpected	placeholder	клиент  которого лидеры ищут  старые	4
+16585	obj_rel_across_anim	16585	8293	expected	placeholder	сенатор  которого художники ищут  маленький	4
+16586	obj_rel_across_anim	16586	8293	unexpected	placeholder	сенатор  которого художники ищут  маленькие	4
+16647	obj_rel_across_anim	16647	8324	expected	placeholder	ученик  которого художники ищут  говорит	4
+16648	obj_rel_across_anim	16648	8324	unexpected	placeholder	ученик  которого художники ищут  говорят	4
+17569	obj_rel_across_anim	17569	8785	expected	placeholder	сенатор  которого танцор любит  большой	4
+17570	obj_rel_across_anim	17570	8785	unexpected	placeholder	сенатор  которого танцор любит  большие	4
+17779	obj_rel_across_anim	17779	8890	expected	placeholder	ученик  которого архитектор любит  большой	4
+17780	obj_rel_across_anim	17780	8890	unexpected	placeholder	ученик  которого архитектор любит  большие	4
+17923	obj_rel_across_anim	17923	8962	expected	placeholder	автор  которого художник любит  ждал	4
+17924	obj_rel_across_anim	17924	8962	unexpected	placeholder	автор  которого художник любит  ждали	4
+18133	obj_rel_across_anim	18133	9067	expected	placeholder	профессор  которого отец любит  ждал	4
+18134	obj_rel_across_anim	18134	9067	unexpected	placeholder	профессор  которого отец любит  ждали	4
+18339	obj_rel_across_anim	18339	9170	expected	placeholder	ученик  которого агент хочет  большой	4
+18340	obj_rel_across_anim	18340	9170	unexpected	placeholder	ученик  которого агент хочет  большие	4
+18495	obj_rel_across_anim	18495	9248	expected	placeholder	режиссёр  которого рабочий хочет  говорит	4
+18496	obj_rel_across_anim	18496	9248	unexpected	placeholder	режиссёр  которого рабочий хочет  говорят	4
+18553	obj_rel_across_anim	18553	9277	expected	placeholder	профессор  которого рабочий хочет  ждал	4
+18554	obj_rel_across_anim	18554	9277	unexpected	placeholder	профессор  которого рабочий хочет  ждали	4
+18975	obj_rel_across_anim	18975	9488	expected	placeholder	профессор  которого танцор хочет  читает	4
+18976	obj_rel_across_anim	18976	9488	unexpected	placeholder	профессор  которого танцор хочет  читают	4
+18993	obj_rel_across_anim	18993	9497	expected	placeholder	клиент  которого танцор хочет  маленький	4
+18994	obj_rel_across_anim	18994	9497	unexpected	placeholder	клиент  которого танцор хочет  маленькие	4
+19469	obj_rel_across_anim	19469	9735	expected	placeholder	автор  которого отец хочет  маленький	4
+19470	obj_rel_across_anim	19470	9735	unexpected	placeholder	автор  которого отец хочет  маленькие	4
+19703	obj_rel_across_anim	19703	9852	expected	placeholder	офицер  которого агент понимает  читает	4
+19704	obj_rel_across_anim	19704	9852	unexpected	placeholder	офицер  которого агент понимает  читают	4
+19811	obj_rel_across_anim	19811	9906	expected	placeholder	профессор  которого министр понимает  говорит	4
+19812	obj_rel_across_anim	19812	9906	unexpected	placeholder	профессор  которого министр понимает  говорят	4
+20937	obj_rel_across_anim	20937	10469	expected	placeholder	профессор  которого отец понимает  старый	4
+20938	obj_rel_across_anim	20938	10469	unexpected	placeholder	профессор  которого отец понимает  старые	4
+22351	obj_rel_across_anim	22351	11176	expected	placeholder	клиент  которого отец ищет  старый	4
+22352	obj_rel_across_anim	22352	11176	unexpected	placeholder	клиент  которого отец ищет  старые	4
+22483	prep_anim	22483	11242	expected	placeholder	профессора перед агентами большие	3
+22484	prep_anim	22484	11242	unexpected	placeholder	профессора перед агентами большой	3
+22735	prep_anim	22735	11368	expected	placeholder	врачи рядом с агентами большие	4
+22736	prep_anim	22736	11368	unexpected	placeholder	врачи рядом с агентами большой	4
+22845	prep_anim	22845	11423	expected	placeholder	режиссёры перед министрами молодые	3
+22846	prep_anim	22846	11423	unexpected	placeholder	режиссёры перед министрами молодой	3
+23119	prep_anim	23119	11560	expected	placeholder	режиссёры рядом с министрами читают	4
+23120	prep_anim	23120	11560	unexpected	placeholder	режиссёры рядом с министрами читает	4
+23401	prep_anim	23401	11701	expected	placeholder	режиссёры за рабочими старые	3
+23402	prep_anim	23402	11701	unexpected	placeholder	режиссёры за рабочими старый	3
+23457	prep_anim	23457	11729	expected	placeholder	профессора за рабочими старые	3
+23458	prep_anim	23458	11729	unexpected	placeholder	профессора за рабочими старый	3
+23509	prep_anim	23509	11755	expected	placeholder	ученики за рабочими ждали	3
+23510	prep_anim	23510	11755	unexpected	placeholder	ученики за рабочими ждал	3
+23539	prep_anim	23539	11770	expected	placeholder	режиссёры рядом с рабочими читают	4
+23540	prep_anim	23540	11770	unexpected	placeholder	режиссёры рядом с рабочими читает	4
+23697	prep_anim	23697	11849	expected	placeholder	фермеры перед помощниками маленькие	3
+23698	prep_anim	23698	11849	unexpected	placeholder	фермеры перед помощниками маленький	3
+24499	prep_anim	24499	12250	expected	placeholder	ученики рядом с солдатами большие	4
+24500	prep_anim	24500	12250	unexpected	placeholder	ученики рядом с солдатами большой	4
+26605	prep_anim	26605	13303	expected	placeholder	авторы перед помощником читают	3
+26606	prep_anim	26606	13303	unexpected	placeholder	авторы перед помощником читает	3
+26779	prep_anim	26779	13390	expected	placeholder	фермеры за помощником молодые	3
+26780	prep_anim	26780	13390	unexpected	placeholder	фермеры за помощником молодой	3
+27025	prep_anim	27025	13513	expected	placeholder	авторы перед солдатом читают	3
+27026	prep_anim	27026	13513	unexpected	placeholder	авторы перед солдатом читает	3
+27469	prep_anim	27469	13735	expected	placeholder	фермеры перед лидером говорят	3
+27470	prep_anim	27470	13735	unexpected	placeholder	фермеры перед лидером говорит	3
+27749	prep_anim	27749	13875	expected	placeholder	фермеры рядом с лидером говорят	4
+27750	prep_anim	27750	13875	unexpected	placeholder	фермеры рядом с лидером говорит	4
+28537	prep_anim	28537	14269	expected	placeholder	пилот за агентами читает	3
+28538	prep_anim	28538	14269	unexpected	placeholder	пилот за агентами читают	3
+28681	prep_anim	28681	14341	expected	placeholder	пилот рядом с агентами маленький	4
+28682	prep_anim	28682	14341	unexpected	placeholder	пилот рядом с агентами маленькие	4
+28887	prep_anim	28887	14444	expected	placeholder	врач за министрами читает	3
+28888	prep_anim	28888	14444	unexpected	placeholder	врач за министрами читают	3
+29801	prep_anim	29801	14901	expected	placeholder	пилот за помощниками маленький	3
+29802	prep_anim	29802	14901	unexpected	placeholder	пилот за помощниками маленькие	3
+30425	prep_anim	30425	15213	expected	placeholder	врач перед лидерами ждал	3
+30426	prep_anim	30426	15213	unexpected	placeholder	врач перед лидерами ждали	3
+30581	prep_anim	30581	15291	expected	placeholder	сенатор за лидерами читает	3
+30582	prep_anim	30582	15291	unexpected	placeholder	сенатор за лидерами читают	3
+32561	prep_anim	32561	16281	expected	placeholder	профессор перед помощником молодой	3
+32562	prep_anim	32562	16281	unexpected	placeholder	профессор перед помощником молодые	3
+32621	prep_anim	32621	16311	expected	placeholder	автор за помощником говорит	3
+32622	prep_anim	32622	16311	unexpected	placeholder	автор за помощником говорят	3
+32899	prep_anim	32899	16450	expected	placeholder	ученик рядом с помощником большой	4
+32900	prep_anim	32900	16450	unexpected	placeholder	ученик рядом с помощником большие	4
+34573	subj_rel	34573	17287	expected	placeholder	ученики  которые понимают агентов  старые	4
+34574	subj_rel	34574	17287	unexpected	placeholder	ученики  которые понимают агентов  старый	4
+34667	subj_rel	34667	17334	expected	placeholder	клиенты  которые ищут агентов  ждали	4
+34668	subj_rel	34668	17334	unexpected	placeholder	клиенты  которые ищут агентов  ждал	4
+34695	subj_rel	34695	17348	expected	placeholder	пилоты  которые ищут агентов  ждали	4
+34696	subj_rel	34696	17348	unexpected	placeholder	пилоты  которые ищут агентов  ждал	4
+34873	subj_rel	34873	17437	expected	placeholder	авторы  которые хотят министров  большие	4
+34874	subj_rel	34874	17437	unexpected	placeholder	авторы  которые хотят министров  большой	4
+35667	subj_rel	35667	17834	expected	placeholder	офицеры  которые понимают рабочих  маленькие	4
+35668	subj_rel	35668	17834	unexpected	placeholder	офицеры  которые понимают рабочих  маленький	4
+36501	subj_rel	36501	18251	expected	placeholder	офицеры  которые любят солдат  ждали	4
+36502	subj_rel	36502	18251	unexpected	placeholder	офицеры  которые любят солдат  ждал	4
+36523	subj_rel	36523	18262	expected	placeholder	пилоты  которые любят солдат  молодые	4
+36524	subj_rel	36524	18262	unexpected	placeholder	пилоты  которые любят солдат  молодой	4
+36847	subj_rel	36847	18424	expected	placeholder	режиссёры  которые ищут солдат  большие	4
+36848	subj_rel	36848	18424	unexpected	placeholder	режиссёры  которые ищут солдат  большой	4
+37363	subj_rel	37363	18682	expected	placeholder	пилоты  которые понимают архитекторов  молодые	4
+37364	subj_rel	37364	18682	unexpected	placeholder	пилоты  которые понимают архитекторов  молодой	4
+37725	subj_rel	37725	18863	expected	placeholder	сенаторы  которые хотят лидеров  маленькие	4
+37726	subj_rel	37726	18863	unexpected	placeholder	сенаторы  которые хотят лидеров  маленький	4
+37859	subj_rel	37859	18930	expected	placeholder	сенаторы  которые понимают лидеров  ждали	4
+37860	subj_rel	37860	18930	unexpected	placeholder	сенаторы  которые понимают лидеров  ждал	4
+38453	subj_rel	38453	19227	expected	placeholder	клиенты  которые понимают художников  маленькие	4
+38454	subj_rel	38454	19227	unexpected	placeholder	клиенты  которые понимают художников  маленький	4
+38619	subj_rel	38619	19310	expected	placeholder	пилоты  которые ищут художников  старые	4
+38620	subj_rel	38620	19310	unexpected	placeholder	пилоты  которые ищут художников  старый	4
+39141	subj_rel	39141	19571	expected	placeholder	профессора  которые ищут отцов  молодые	4
+39142	subj_rel	39142	19571	unexpected	placeholder	профессора  которые ищут отцов  молодой	4
+39725	subj_rel	39725	19863	expected	placeholder	офицеры  которые ищут агента  старые	4
+39726	subj_rel	39726	19863	unexpected	placeholder	офицеры  которые ищут агента  старый	4
+39893	subj_rel	39893	19947	expected	placeholder	ученики  которые любят министра  старые	4
+39894	subj_rel	39894	19947	unexpected	placeholder	ученики  которые любят министра  старый	4
+40025	subj_rel	40025	20013	expected	placeholder	пилоты  которые хотят министра  большие	4
+40026	subj_rel	40026	20013	unexpected	placeholder	пилоты  которые хотят министра  большой	4
+40851	subj_rel	40851	20426	expected	placeholder	офицеры  которые ищут рабочего  большие	4
+40852	subj_rel	40852	20426	unexpected	placeholder	офицеры  которые ищут рабочего  большой	4
+41389	subj_rel	41389	20695	expected	placeholder	клиенты  которые ищут помощника  читают	4
+41390	subj_rel	41390	20695	unexpected	placeholder	клиенты  которые ищут помощника  читает	4
+41699	subj_rel	41699	20850	expected	placeholder	пилоты  которые хотят солдата  старые	4
+41700	subj_rel	41700	20850	unexpected	placeholder	пилоты  которые хотят солдата  старый	4
+41989	subj_rel	41989	20995	expected	placeholder	ученики  которые ищут солдата  ждали	4
+41990	subj_rel	41990	20995	unexpected	placeholder	ученики  которые ищут солдата  ждал	4
+43237	subj_rel	43237	21619	expected	placeholder	пилоты  которые любят художника  читают	4
+43238	subj_rel	43238	21619	unexpected	placeholder	пилоты  которые любят художника  читает	4
+43297	subj_rel	43297	21649	expected	placeholder	фермеры  которые хотят художника  маленькие	4
+43298	subj_rel	43298	21649	unexpected	placeholder	фермеры  которые хотят художника  маленький	4
+43895	subj_rel	43895	21948	expected	placeholder	профессора  которые хотят отца  читают	4
+43896	subj_rel	43896	21948	unexpected	placeholder	профессора  которые хотят отца  читает	4
+45073	subj_rel	45073	22537	expected	placeholder	ученик  который хочет министров  старый	4
+45074	subj_rel	45074	22537	unexpected	placeholder	ученик  который хочет министров  старые	4
+45253	subj_rel	45253	22627	expected	placeholder	фермер  который ищет министров  читает	4
+45254	subj_rel	45254	22627	unexpected	placeholder	фермер  который ищет министров  читают	4
+45617	subj_rel	45617	22809	expected	placeholder	пилот  который хочет рабочих  читает	4
+45618	subj_rel	45618	22809	unexpected	placeholder	пилот  который хочет рабочих  читают	4
+45849	subj_rel	45849	22925	expected	placeholder	сенатор  который ищет рабочих  большой	4
+45850	subj_rel	45850	22925	unexpected	placeholder	сенатор  который ищет рабочих  большие	4
+45899	subj_rel	45899	22950	expected	placeholder	пилот  который ищет рабочих  старый	4
+45900	subj_rel	45900	22950	unexpected	placeholder	пилот  который ищет рабочих  старые	4
+46247	subj_rel	46247	23124	expected	placeholder	врач  который понимает помощников  читает	4
+46248	subj_rel	46248	23124	unexpected	placeholder	врач  который понимает помощников  читают	4
+46789	subj_rel	46789	23395	expected	placeholder	фермер  который понимает солдат  говорит	4
+46790	subj_rel	46790	23395	unexpected	placeholder	фермер  который понимает солдат  говорят	4
+47267	subj_rel	47267	23634	expected	placeholder	клиент  который хочет архитекторов  ждал	4
+47268	subj_rel	47268	23634	unexpected	placeholder	клиент  который хочет архитекторов  ждали	4
+47313	subj_rel	47313	23657	expected	placeholder	ученик  который хочет архитекторов  старый	4
+47314	subj_rel	47314	23657	unexpected	placeholder	ученик  который хочет архитекторов  старые	4
+47971	subj_rel	47971	23986	expected	placeholder	клиент  который понимает лидеров  старый	4
+47972	subj_rel	47972	23986	unexpected	placeholder	клиент  который понимает лидеров  старые	4
+48333	subj_rel	48333	24167	expected	placeholder	фермер  который хочет художников  читает	4
+48334	subj_rel	48334	24167	unexpected	placeholder	фермер  который хочет художников  читают	4
+49557	subj_rel	49557	24779	expected	placeholder	ученик  который хочет агента  молодой	4
+49558	subj_rel	49558	24779	unexpected	placeholder	ученик  который хочет агента  молодые	4
+49867	subj_rel	49867	24934	expected	placeholder	режиссёр  который любит министра  большой	4
+49868	subj_rel	49868	24934	unexpected	placeholder	режиссёр  который любит министра  большие	4
+50323	subj_rel	50323	25162	expected	placeholder	сенатор  который ищет министра  старый	4
+50324	subj_rel	50324	25162	unexpected	placeholder	сенатор  который ищет министра  старые	4
+51677	subj_rel	51677	25839	expected	placeholder	режиссёр  который хочет солдата  ждал	4
+51678	subj_rel	51678	25839	unexpected	placeholder	режиссёр  который хочет солдата  ждали	4
+53191	subj_rel	53191	26596	expected	placeholder	ученик  который ищет лидера  читает	4
+53192	subj_rel	53192	26596	unexpected	placeholder	ученик  который ищет лидера  читают	4
+53261	subj_rel	53261	26631	expected	placeholder	сенатор  который любит художника  читает	4
+53262	subj_rel	53262	26631	unexpected	placeholder	сенатор  который любит художника  читают	4
+53359	subj_rel	53359	26680	expected	placeholder	режиссёр  который хочет художника  читает	4
+53360	subj_rel	53360	26680	unexpected	placeholder	режиссёр  который хочет художника  читают	4
+53541	subj_rel	53541	26771	expected	placeholder	сенатор  который понимает художника  читает	4
+53542	subj_rel	53542	26771	unexpected	placeholder	сенатор  который понимает художника  читают	4
+53813	subj_rel	53813	26907	expected	placeholder	врач  который любит отца  молодой	4
+53814	subj_rel	53814	26907	unexpected	placeholder	врач  который любит отца  молодые	4
+54375	obj_rel_within_anim	54375	27188	expected	placeholder	клиенты  которых агенты ищут  говорят	3
+54376	obj_rel_within_anim	54376	27188	unexpected	placeholder	клиенты  которых агенты ищет  говорят	3
+54625	obj_rel_within_anim	54625	27313	expected	placeholder	пилоты  которых помощники любят  говорят	3
+54626	obj_rel_within_anim	54626	27313	unexpected	placeholder	пилоты  которых помощники любит  говорят	3
+54703	obj_rel_within_anim	54703	27352	expected	placeholder	офицеры  которых солдаты ищут  говорят	3
+54704	obj_rel_within_anim	54704	27352	unexpected	placeholder	офицеры  которых солдаты ищет  говорят	3
+55663	obj_rel_within_anim	55663	27832	expected	placeholder	офицеры  которых архитекторы ищут  ждали	3
+55664	obj_rel_within_anim	55664	27832	unexpected	placeholder	офицеры  которых архитекторы ищет  ждали	3
+55965	obj_rel_within_anim	55965	27983	expected	placeholder	профессора  которых агенты понимают  читают	3
+55966	obj_rel_within_anim	55966	27983	unexpected	placeholder	профессора  которых агенты понимает  читают	3
+56525	obj_rel_within_anim	56525	28263	expected	placeholder	профессора  которых лидеры понимают  читают	3
+56526	obj_rel_within_anim	56526	28263	unexpected	placeholder	профессора  которых лидеры понимает  читают	3
+56533	obj_rel_within_anim	56533	28267	expected	placeholder	клиенты  которых лидеры понимают  читают	3
+56534	obj_rel_within_anim	56534	28267	unexpected	placeholder	клиенты  которых лидеры понимает  читают	3
+57215	obj_rel_within_anim	57215	28608	expected	placeholder	режиссёры  которых архитекторы ищут  старые	3
+57216	obj_rel_within_anim	57216	28608	unexpected	placeholder	режиссёры  которых архитекторы ищет  старые	3
+57239	obj_rel_within_anim	57239	28620	expected	placeholder	сенаторы  которых архитекторы ищут  старые	3
+57240	obj_rel_within_anim	57240	28620	unexpected	placeholder	сенаторы  которых архитекторы ищет  старые	3
+57251	obj_rel_within_anim	57251	28626	expected	placeholder	клиенты  которых архитекторы хотят  старые	3
+57252	obj_rel_within_anim	57252	28626	unexpected	placeholder	клиенты  которых архитекторы хочет  старые	3
+57465	obj_rel_within_anim	57465	28733	expected	placeholder	врачи  которых отцы любят  старые	3
+57466	obj_rel_within_anim	57466	28733	unexpected	placeholder	врачи  которых отцы любит  старые	3
+57529	obj_rel_within_anim	57529	28765	expected	placeholder	режиссёры  которых агенты любят  маленькие	3
+57530	obj_rel_within_anim	57530	28765	unexpected	placeholder	режиссёры  которых агенты любит  маленькие	3
+58593	obj_rel_within_anim	58593	29297	expected	placeholder	сенаторы  которых помощники любят  молодые	3
+58594	obj_rel_within_anim	58594	29297	unexpected	placeholder	сенаторы  которых помощники любит  молодые	3
+58695	obj_rel_within_anim	58695	29348	expected	placeholder	клиенты  которых солдаты ищут  молодые	3
+58696	obj_rel_within_anim	58696	29348	unexpected	placeholder	клиенты  которых солдаты ищет  молодые	3
+59405	obj_rel_within_anim	59405	29703	expected	placeholder	профессора  которых помощники понимают  большие	3
+59406	obj_rel_within_anim	59406	29703	unexpected	placeholder	профессора  которых помощники понимает  большие	3
+59689	obj_rel_within_anim	59689	29845	expected	placeholder	режиссёры  которых лидеры любят  большие	3
+59690	obj_rel_within_anim	59690	29845	unexpected	placeholder	режиссёры  которых лидеры любит  большие	3
+59875	obj_rel_within_anim	59875	29938	expected	placeholder	сенаторы  которых отцы хотят  большие	3
+59876	obj_rel_within_anim	59876	29938	unexpected	placeholder	сенаторы  которых отцы хочет  большие	3
+60345	obj_rel_within_anim	60345	30173	expected	placeholder	врачи  которых танцор любит  говорят	3
+60346	obj_rel_within_anim	60346	30173	unexpected	placeholder	врачи  которых танцор любят  говорят	3
+60887	obj_rel_within_anim	60887	30444	expected	placeholder	авторы  которых рабочий ищет  ждали	3
+60888	obj_rel_within_anim	60888	30444	unexpected	placeholder	авторы  которых рабочий ищут  ждали	3
+61053	obj_rel_within_anim	61053	30527	expected	placeholder	режиссёры  которых солдат понимает  ждали	3
+61054	obj_rel_within_anim	61054	30527	unexpected	placeholder	режиссёры  которых солдат понимают  ждали	3
+61231	obj_rel_within_anim	61231	30616	expected	placeholder	врачи  которых архитектор ищет  ждали	3
+61232	obj_rel_within_anim	61232	30616	unexpected	placeholder	врачи  которых архитектор ищут  ждали	3
+61275	obj_rel_within_anim	61275	30638	expected	placeholder	ученики  которых архитектор хочет  ждали	3
+61276	obj_rel_within_anim	61276	30638	unexpected	placeholder	ученики  которых архитектор хотят  ждали	3
+61637	obj_rel_within_anim	61637	30819	expected	placeholder	сенаторы  которых министр понимает  читают	3
+61638	obj_rel_within_anim	61638	30819	unexpected	placeholder	сенаторы  которых министр понимают  читают	3
+61655	obj_rel_within_anim	61655	30828	expected	placeholder	клиенты  которых министр ищет  читают	3
+61656	obj_rel_within_anim	61656	30828	unexpected	placeholder	клиенты  которых министр ищут  читают	3
+63019	obj_rel_within_anim	63019	31510	expected	placeholder	офицеры  которых художник хочет  старые	3
+63020	obj_rel_within_anim	63020	31510	unexpected	placeholder	офицеры  которых художник хотят  старые	3
+63373	obj_rel_within_anim	63373	31687	expected	placeholder	режиссёры  которых помощник понимает  маленькие	3
+63374	obj_rel_within_anim	63374	31687	unexpected	placeholder	режиссёры  которых помощник понимают  маленькие	3
+64069	obj_rel_within_anim	64069	32035	expected	placeholder	пилоты  которых министр понимает  молодые	3
+64070	obj_rel_within_anim	64070	32035	unexpected	placeholder	пилоты  которых министр понимают  молодые	3
+64903	obj_rel_within_anim	64903	32452	expected	placeholder	фермеры  которых рабочий ищет  большие	3
+64904	obj_rel_within_anim	64904	32452	unexpected	placeholder	фермеры  которых рабочий ищут  большие	3
+65483	obj_rel_within_anim	65483	32742	expected	placeholder	профессора  которых отец хочет  большие	3
+65484	obj_rel_within_anim	65484	32742	unexpected	placeholder	профессора  которых отец хотят  большие	3
+66449	obj_rel_within_anim	66449	33225	expected	placeholder	клиент  которого министры любят  ждал	3
+66450	obj_rel_within_anim	66450	33225	unexpected	placeholder	клиент  которого министры любит  ждал	3
+67445	obj_rel_within_anim	67445	33723	expected	placeholder	автор  которого солдаты понимают  читает	3
+67446	obj_rel_within_anim	67446	33723	unexpected	placeholder	автор  которого солдаты понимает  читает	3
+67869	obj_rel_within_anim	67869	33935	expected	placeholder	врач  которого отцы понимают  читает	3
+67870	obj_rel_within_anim	67870	33935	unexpected	placeholder	врач  которого отцы понимает  читает	3
+68565	obj_rel_within_anim	68565	34283	expected	placeholder	автор  которого художники понимают  старый	3
+68566	obj_rel_within_anim	68566	34283	unexpected	placeholder	автор  которого художники понимает  старый	3
+68809	obj_rel_within_anim	68809	34405	expected	placeholder	режиссёр  которого министры любят  маленький	3
+68810	obj_rel_within_anim	68810	34405	unexpected	placeholder	режиссёр  которого министры любит  маленький	3
+69299	obj_rel_within_anim	69299	34650	expected	placeholder	фермер  которого лидеры хотят  маленький	3
+69300	obj_rel_within_anim	69300	34650	unexpected	placeholder	фермер  которого лидеры хочет  маленький	3
+69369	obj_rel_within_anim	69369	34685	expected	placeholder	режиссёр  которого художники любят  маленький	3
+69370	obj_rel_within_anim	69370	34685	unexpected	placeholder	режиссёр  которого художники любит  маленький	3
+69521	obj_rel_within_anim	69521	34761	expected	placeholder	автор  которого агенты любят  молодой	3
+69522	obj_rel_within_anim	69522	34761	unexpected	placeholder	автор  которого агенты любит  молодой	3
+69555	obj_rel_within_anim	69555	34778	expected	placeholder	сенатор  которого агенты хотят  молодой	3
+69556	obj_rel_within_anim	69556	34778	unexpected	placeholder	сенатор  которого агенты хочет  молодой	3
+69695	obj_rel_within_anim	69695	34848	expected	placeholder	режиссёр  которого рабочие ищут  молодой	3
+69696	obj_rel_within_anim	69696	34848	unexpected	placeholder	режиссёр  которого рабочие ищет  молодой	3
+72047	obj_rel_within_anim	72047	36024	expected	placeholder	профессор  которого министр ищет  ждал	3
+72048	obj_rel_within_anim	72048	36024	unexpected	placeholder	профессор  которого министр ищут  ждал	3
+72383	obj_rel_within_anim	72383	36192	expected	placeholder	офицер  которого танцор ищет  ждал	3
+72384	obj_rel_within_anim	72384	36192	unexpected	placeholder	офицер  которого танцор ищут  ждал	3
+72477	obj_rel_within_anim	72477	36239	expected	placeholder	ученик  которого архитектор понимает  ждал	3
+72478	obj_rel_within_anim	72478	36239	unexpected	placeholder	ученик  которого архитектор понимают  ждал	3
+73127	obj_rel_within_anim	73127	36564	expected	placeholder	автор  которого танцор ищет  читает	3
+73128	obj_rel_within_anim	73128	36564	unexpected	placeholder	автор  которого танцор ищут  читает	3
+73367	obj_rel_within_anim	73367	36684	expected	placeholder	автор  которого художник ищет  читает	3
+73368	obj_rel_within_anim	73368	36684	unexpected	placeholder	автор  которого художник ищут  читает	3
+73459	obj_rel_within_anim	73459	36730	expected	placeholder	фермер  которого отец хочет  читает	3
+73460	obj_rel_within_anim	73460	36730	unexpected	placeholder	фермер  которого отец хотят  читает	3
+73481	obj_rel_within_anim	73481	36741	expected	placeholder	профессор  которого отец любит  читает	3
+73482	obj_rel_within_anim	73482	36741	unexpected	placeholder	профессор  которого отец любят  читает	3
+73983	obj_rel_within_anim	73983	36992	expected	placeholder	офицер  которого танцор ищет  старый	3
+73984	obj_rel_within_anim	73984	36992	unexpected	placeholder	офицер  которого танцор ищут  старый	3
+74315	obj_rel_within_anim	74315	37158	expected	placeholder	ученик  которого отец хочет  старый	3
+74316	obj_rel_within_anim	74316	37158	unexpected	placeholder	ученик  которого отец хотят  старый	3
+75299	obj_rel_within_anim	75299	37650	expected	placeholder	фермер  которого рабочий хочет  молодой	3
+75300	obj_rel_within_anim	75300	37650	unexpected	placeholder	фермер  которого рабочий хотят  молодой	3
+75649	obj_rel_within_anim	75649	37825	expected	placeholder	клиент  которого архитектор любит  молодой	3
+75650	obj_rel_within_anim	75650	37825	unexpected	placeholder	клиент  которого архитектор любят  молодой	3
+75803	obj_rel_within_anim	75803	37902	expected	placeholder	профессор  которого художник хочет  молодой	3
+75804	obj_rel_within_anim	75804	37902	unexpected	placeholder	профессор  которого художник хотят  молодой	3
+75935	obj_rel_within_anim	75935	37968	expected	placeholder	режиссёр  которого агент ищет  большой	3
+75936	obj_rel_within_anim	75936	37968	unexpected	placeholder	режиссёр  которого агент ищут  большой	3
+76033	obj_rel_within_anim	76033	38017	expected	placeholder	сенатор  которого министр любит  большой	3
+76034	obj_rel_within_anim	76034	38017	unexpected	placeholder	сенатор  которого министр любят  большой	3
+76841	vp_coord	76841	38421	expected	placeholder	пилот говорит и маленький	3
+76842	vp_coord	76842	38421	unexpected	placeholder	пилот говорит и маленькие	3
+76869	vp_coord	76869	38435	expected	placeholder	автор ждал и маленький	3
+76870	vp_coord	76870	38435	unexpected	placeholder	автор ждал и маленькие	3
+78439	vp_coord	78439	39220	expected	placeholder	фермеры молодые и молодые	3
+78440	vp_coord	78440	39220	unexpected	placeholder	фермеры молодые и молодой	3
+78677	vp_coord	78677	39339	expected	placeholder	ученики большие и молодые	3
+78678	vp_coord	78678	39339	unexpected	placeholder	ученики большие и молодой	3
+78803	long_vp_coord	78803	39402	expected	placeholder	фермер любит смотреть телепередачи и любит смотреть телепередачи	5
+78804	long_vp_coord	78804	39402	unexpected	placeholder	фермер любит смотреть телепередачи и любят смотреть телепередачи	5

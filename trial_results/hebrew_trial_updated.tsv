@@ -1,0 +1,261 @@
+sentid	condition	contextid	pairid	comparison	lemma	sentence	ROI
+825	obj_rel_across_anim	825	413	expected	placeholder	ה טייס ש ה רקדן אוהב צוחק	6
+826	obj_rel_across_anim	826	413	unexpected	placeholder	ה טייס ש ה רקדן אוהב צוחקים	6
+847	obj_rel_across_anim	847	424	expected	placeholder	ה מלצר ש ה בנאי אוהב ישן	6
+848	obj_rel_across_anim	848	424	unexpected	placeholder	ה מלצר ש ה בנאי אוהב ישנים	6
+1527	obj_rel_across_anim	1527	764	expected	placeholder	ה יועץ ש ה שומר שונא רוקד	6
+1528	obj_rel_across_anim	1528	764	unexpected	placeholder	ה יועץ ש ה שומר שונא רוקדים	6
+1841	obj_rel_across_anim	1841	921	expected	placeholder	ה מנהל ש ה זמר שונא ישן	6
+1842	obj_rel_across_anim	1842	921	unexpected	placeholder	ה מנהל ש ה זמר שונא ישנים	6
+2947	obj_rel_across_anim	2947	1474	expected	placeholder	ה מלצר ש ה שר מכיר ישן	6
+2948	obj_rel_across_anim	2948	1474	unexpected	placeholder	ה מלצר ש ה שר מכיר ישנים	6
+2965	obj_rel_across_anim	2965	1483	expected	placeholder	ה מנהל ש ה שר מכיר חי	6
+2966	obj_rel_across_anim	2966	1483	unexpected	placeholder	ה מנהל ש ה שר מכיר חיים	6
+3431	obj_rel_across_anim	3431	1716	expected	placeholder	ה נהג ש ה נהג מכיר רוקד	6
+3432	obj_rel_across_anim	3432	1716	unexpected	placeholder	ה נהג ש ה נהג מכיר רוקדים	6
+4801	obj_rel_across_anim	4801	2401	expected	placeholder	ה חקלאי ש ה נהג מעריץ צוחק	6
+4802	obj_rel_across_anim	4802	2401	unexpected	placeholder	ה חקלאי ש ה נהג מעריץ צוחקים	6
+5781	obj_rel_across_anim	5781	2891	expected	placeholder	ה חקלאי ש ה שרים אוהבים צוחק	6
+5782	obj_rel_across_anim	5782	2891	unexpected	placeholder	ה חקלאי ש ה שרים אוהבים צוחקים	6
+6051	obj_rel_across_anim	6051	3026	expected	placeholder	ה חקלאי ש ה זמרים אוהבים נוסע	6
+6052	obj_rel_across_anim	6052	3026	unexpected	placeholder	ה חקלאי ש ה זמרים אוהבים נוסעים	6
+9389	obj_rel_across_anim	9389	4695	expected	placeholder	ה מלצר ש ה מהנדסים מכירים שוחה	6
+9390	obj_rel_across_anim	9390	4695	unexpected	placeholder	ה מלצר ש ה מהנדסים מכירים שוחים	6
+9429	obj_rel_across_anim	9429	4715	expected	placeholder	ה רופא ש ה מהנדסים מכירים ישן	6
+9430	obj_rel_across_anim	9430	4715	unexpected	placeholder	ה רופא ש ה מהנדסים מכירים ישנים	6
+9461	obj_rel_across_anim	9461	4731	expected	placeholder	ה נהג ש ה מהנדסים מכירים חי	6
+9462	obj_rel_across_anim	9462	4731	unexpected	placeholder	ה נהג ש ה מהנדסים מכירים חיים	6
+10459	obj_rel_across_anim	10459	5230	expected	placeholder	ה קצין ש ה נהגים מעריצים רוקד	6
+10460	obj_rel_across_anim	10460	5230	unexpected	placeholder	ה קצין ש ה נהגים מעריצים רוקדים	6
+10585	obj_rel_across_anim	10585	5293	expected	placeholder	ה חייל ש ה רקדנים מעריצים רוקד	6
+10586	obj_rel_across_anim	10586	5293	unexpected	placeholder	ה חייל ש ה רקדנים מעריצים רוקדים	6
+12459	obj_rel_across_anim	12459	6230	expected	placeholder	ה יועצים ש ה טכנאי אוהב צוחקים	6
+12460	obj_rel_across_anim	12460	6230	unexpected	placeholder	ה יועצים ש ה טכנאי אוהב צוחק	6
+13455	obj_rel_across_anim	13455	6728	expected	placeholder	ה מנהלים ש ה בנאי שונא רוקדים	6
+13456	obj_rel_across_anim	13456	6728	unexpected	placeholder	ה מנהלים ש ה בנאי שונא רוקד	6
+13657	obj_rel_across_anim	13657	6829	expected	placeholder	ה נהגים ש ה מהנדס שונא ישנים	6
+13658	obj_rel_across_anim	13658	6829	unexpected	placeholder	ה נהגים ש ה מהנדס שונא ישן	6
+13867	obj_rel_across_anim	13867	6934	expected	placeholder	ה מלצרים ש ה מלחין שונא ישנים	6
+13868	obj_rel_across_anim	13868	6934	unexpected	placeholder	ה מלצרים ש ה מלחין שונא ישן	6
+13999	obj_rel_across_anim	13999	7000	expected	placeholder	ה יועצים ש ה מלחין שונא צוחקים	6
+14000	obj_rel_across_anim	14000	7000	unexpected	placeholder	ה יועצים ש ה מלחין שונא צוחק	6
+15671	obj_rel_across_anim	15671	7836	expected	placeholder	ה יועצים ש ה שר מעריץ רצים	6
+15672	obj_rel_across_anim	15672	7836	unexpected	placeholder	ה יועצים ש ה שר מעריץ רץ	6
+16127	obj_rel_across_anim	16127	8064	expected	placeholder	ה מנהלים ש ה רקדן מעריץ צוחקים	6
+16128	obj_rel_across_anim	16128	8064	unexpected	placeholder	ה מנהלים ש ה רקדן מעריץ צוחק	6
+16579	obj_rel_across_anim	16579	8290	expected	placeholder	ה טבחים ש ה טכנאי מעריץ נוסעים	6
+16580	obj_rel_across_anim	16580	8290	unexpected	placeholder	ה טבחים ש ה טכנאי מעריץ נוסע	6
+17703	obj_rel_across_anim	17703	8852	expected	placeholder	ה טבחים ש ה בנאים אוהבים ישנים	6
+17704	obj_rel_across_anim	17704	8852	unexpected	placeholder	ה טבחים ש ה בנאים אוהבים ישן	6
+18007	obj_rel_across_anim	18007	9004	expected	placeholder	ה חיילים ש ה טכנאים אוהבים נוסעים	6
+18008	obj_rel_across_anim	18008	9004	unexpected	placeholder	ה חיילים ש ה טכנאים אוהבים נוסע	6
+18229	obj_rel_across_anim	18229	9115	expected	placeholder	ה חקלאים ש ה שומרים שונאים רוקדים	6
+18230	obj_rel_across_anim	18230	9115	unexpected	placeholder	ה חקלאים ש ה שומרים שונאים רוקד	6
+18399	obj_rel_across_anim	18399	9200	expected	placeholder	ה טבחים ש ה שרים שונאים נוסעים	6
+18400	obj_rel_across_anim	18400	9200	unexpected	placeholder	ה טבחים ש ה שרים שונאים נוסע	6
+18419	obj_rel_across_anim	18419	9210	expected	placeholder	ה נהגים ש ה שרים שונאים שוחים	6
+18420	obj_rel_across_anim	18420	9210	unexpected	placeholder	ה נהגים ש ה שרים שונאים שוחה	6
+19773	obj_rel_across_anim	19773	9887	expected	placeholder	ה חקלאים ש ה שרים מכירים רצים	6
+19774	obj_rel_across_anim	19774	9887	unexpected	placeholder	ה חקלאים ש ה שרים מכירים רץ	6
+21141	obj_rel_across_anim	21141	10571	expected	placeholder	ה מלצרים ש ה שרים מעריצים רוקדים	6
+21142	obj_rel_across_anim	21142	10571	unexpected	placeholder	ה מלצרים ש ה שרים מעריצים רוקד	6
+21219	obj_rel_across_anim	21219	10610	expected	placeholder	ה נהגים ש ה שרים מעריצים שוחים	6
+21220	obj_rel_across_anim	21220	10610	unexpected	placeholder	ה נהגים ש ה שרים מעריצים שוחה	6
+21993	obj_rel_across_anim	21993	10997	expected	placeholder	ה מלצרים ש ה מהנדסים מעריצים צוחקים	6
+21994	obj_rel_across_anim	21994	10997	unexpected	placeholder	ה מלצרים ש ה מהנדסים מעריצים צוחק	6
+22517	prep_anim	22517	11259	expected	placeholder	ה טייס מאחורי ה שומר רץ	5
+22518	prep_anim	22518	11259	unexpected	placeholder	ה טייס מאחורי ה שומר רצים	5
+23461	prep_anim	23461	11731	expected	placeholder	ה נהג ליד ה זמר חי	5
+23462	prep_anim	23462	11731	unexpected	placeholder	ה נהג ליד ה זמר חיים	5
+24453	prep_anim	24453	12227	expected	placeholder	ה חייל מאחורי ה מהנדס שוחה	5
+24454	prep_anim	24454	12227	unexpected	placeholder	ה חייל מאחורי ה מהנדס שוחים	5
+25713	prep_anim	25713	12857	expected	placeholder	ה חייל ליד ה שרים שוחה	5
+25714	prep_anim	25714	12857	unexpected	placeholder	ה חייל ליד ה שרים שוחים	5
+26467	prep_anim	26467	13234	expected	placeholder	ה מלצר ליד ה נהגים ישן	5
+26468	prep_anim	26468	13234	unexpected	placeholder	ה מלצר ליד ה נהגים ישנים	5
+26635	prep_anim	26635	13318	expected	placeholder	ה חקלאי מאחורי ה רקדנים ישן	5
+26636	prep_anim	26636	13318	unexpected	placeholder	ה חקלאי מאחורי ה רקדנים ישנים	5
+27331	prep_anim	27331	13666	expected	placeholder	ה חקלאי ליד ה מהנדסים נוסע	5
+27332	prep_anim	27332	13666	unexpected	placeholder	ה חקלאי ליד ה מהנדסים נוסעים	5
+28493	prep_anim	28493	14247	expected	placeholder	ה נהגים ליד ה שר נוסעים	5
+28494	prep_anim	28494	14247	unexpected	placeholder	ה נהגים ליד ה שר נוסע	5
+28643	prep_anim	28643	14322	expected	placeholder	ה נהגים מאחורי ה עובד צוחקים	5
+28644	prep_anim	28644	14322	unexpected	placeholder	ה נהגים מאחורי ה עובד צוחק	5
+29335	prep_anim	29335	14668	expected	placeholder	ה נהגים ליד ה נהג רצים	5
+29336	prep_anim	29336	14668	unexpected	placeholder	ה נהגים ליד ה נהג רץ	5
+29507	prep_anim	29507	14754	expected	placeholder	ה קצינים מאחורי ה רקדן שוחים	5
+29508	prep_anim	29508	14754	unexpected	placeholder	ה קצינים מאחורי ה רקדן שוחה	5
+29713	prep_anim	29713	14857	expected	placeholder	ה חקלאים מאחורי ה בנאי רצים	5
+29714	prep_anim	29714	14857	unexpected	placeholder	ה חקלאים מאחורי ה בנאי רץ	5
+29791	prep_anim	29791	14896	expected	placeholder	ה קצינים מאחורי ה בנאי צוחקים	5
+29792	prep_anim	29792	14896	unexpected	placeholder	ה קצינים מאחורי ה בנאי צוחק	5
+30105	prep_anim	30105	15053	expected	placeholder	ה מלצרים ליד ה מהנדס רצים	5
+30106	prep_anim	30106	15053	unexpected	placeholder	ה מלצרים ליד ה מהנדס רץ	5
+30171	prep_anim	30171	15086	expected	placeholder	ה נהגים ליד ה מהנדס רוקדים	5
+30172	prep_anim	30172	15086	unexpected	placeholder	ה נהגים ליד ה מהנדס רוקד	5
+30851	prep_anim	30851	15426	expected	placeholder	ה רופאים מאחורי ה שומרים שוחים	5
+30852	prep_anim	30852	15426	unexpected	placeholder	ה רופאים מאחורי ה שומרים שוחה	5
+31743	prep_anim	31743	15872	expected	placeholder	ה קצינים מאחורי ה זמרים רצים	5
+31744	prep_anim	31744	15872	unexpected	placeholder	ה קצינים מאחורי ה זמרים רץ	5
+33113	prep_anim	33113	16557	expected	placeholder	ה נהגים מאחורי ה טכנאים נוסעים	5
+33114	prep_anim	33114	16557	unexpected	placeholder	ה נהגים מאחורי ה טכנאים נוסע	5
+33519	prep_anim	33519	16760	expected	placeholder	ה טבחים ליד ה מלחינים נוסעים	5
+33520	prep_anim	33520	16760	unexpected	placeholder	ה טבחים ליד ה מלחינים נוסע	5
+34003	subj_rel	34003	17002	expected	placeholder	ה טייס ש מכיר את ה שומר חי	7
+34004	subj_rel	34004	17002	unexpected	placeholder	ה טייס ש מכיר את ה שומר חיים	7
+36193	subj_rel	36193	18097	expected	placeholder	ה נהג ש מכיר את ה נהג נוסע	7
+36194	subj_rel	36194	18097	unexpected	placeholder	ה נהג ש מכיר את ה נהג נוסעים	7
+36195	subj_rel	36195	18098	expected	placeholder	ה נהג ש מכיר את ה נהג רץ	7
+36196	subj_rel	36196	18098	unexpected	placeholder	ה נהג ש מכיר את ה נהג רצים	7
+37311	subj_rel	37311	18656	expected	placeholder	ה נהג ש מכיר את ה בנאי רוקד	7
+37312	subj_rel	37312	18656	unexpected	placeholder	ה נהג ש מכיר את ה בנאי רוקדים	7
+37413	subj_rel	37413	18707	expected	placeholder	ה חקלאי ש מעריץ את ה בנאי רץ	7
+37414	subj_rel	37414	18707	unexpected	placeholder	ה חקלאי ש מעריץ את ה בנאי רצים	7
+37859	subj_rel	37859	18930	expected	placeholder	ה טבח ש מכיר את ה מהנדס נוסע	7
+37860	subj_rel	37860	18930	unexpected	placeholder	ה טבח ש מכיר את ה מהנדס נוסעים	7
+40393	subj_rel	40393	20197	expected	placeholder	ה נהג ש אוהב את ה עובדים נוסע	7
+40394	subj_rel	40394	20197	unexpected	placeholder	ה נהג ש אוהב את ה עובדים נוסעים	7
+40489	subj_rel	40489	20245	expected	placeholder	ה חקלאי ש שונא את ה עובדים רוקד	7
+40490	subj_rel	40490	20245	unexpected	placeholder	ה חקלאי ש שונא את ה עובדים רוקדים	7
+42177	subj_rel	42177	21089	expected	placeholder	ה חקלאי ש שונא את ה רקדנים שוחה	7
+42178	subj_rel	42178	21089	unexpected	placeholder	ה חקלאי ש שונא את ה רקדנים שוחים	7
+42291	subj_rel	42291	21146	expected	placeholder	ה מלצר ש מכיר את ה רקדנים חי	7
+42292	subj_rel	42292	21146	unexpected	placeholder	ה מלצר ש מכיר את ה רקדנים חיים	7
+42775	subj_rel	42775	21388	expected	placeholder	ה נהג ש שונא את ה בנאים רץ	7
+42776	subj_rel	42776	21388	unexpected	placeholder	ה נהג ש שונא את ה בנאים רצים	7
+43091	subj_rel	43091	21546	expected	placeholder	ה קצין ש מעריץ את ה בנאים צוחק	7
+43092	subj_rel	43092	21546	unexpected	placeholder	ה קצין ש מעריץ את ה בנאים צוחקים	7
+43809	subj_rel	43809	21905	expected	placeholder	ה יועץ ש אוהב את ה טכנאים נוסע	7
+43810	subj_rel	43810	21905	unexpected	placeholder	ה יועץ ש אוהב את ה טכנאים נוסעים	7
+44085	subj_rel	44085	22043	expected	placeholder	ה טייס ש מכיר את ה טכנאים צוחק	7
+44086	subj_rel	44086	22043	unexpected	placeholder	ה טייס ש מכיר את ה טכנאים צוחקים	7
+44369	subj_rel	44369	22185	expected	placeholder	ה יועץ ש אוהב את ה מלחינים נוסע	7
+44370	subj_rel	44370	22185	unexpected	placeholder	ה יועץ ש אוהב את ה מלחינים נוסעים	7
+44855	subj_rel	44855	22428	expected	placeholder	ה רופאים ש אוהבים את ה שומר צוחקים	7
+44856	subj_rel	44856	22428	unexpected	placeholder	ה רופאים ש אוהבים את ה שומר צוחק	7
+45971	subj_rel	45971	22986	expected	placeholder	ה רופאים ש אוהבים את ה עובד שוחים	7
+45972	subj_rel	45972	22986	unexpected	placeholder	ה רופאים ש אוהבים את ה עובד שוחה	7
+47705	subj_rel	47705	23853	expected	placeholder	ה קצינים ש אוהבים את ה רקדן ישנים	7
+47706	subj_rel	47706	23853	unexpected	placeholder	ה קצינים ש אוהבים את ה רקדן ישן	7
+48429	subj_rel	48429	24215	expected	placeholder	ה יועצים ש שונאים את ה בנאי נוסעים	7
+48430	subj_rel	48430	24215	unexpected	placeholder	ה יועצים ש שונאים את ה בנאי נוסע	7
+49133	subj_rel	49133	24567	expected	placeholder	ה יועצים ש מכירים את ה מהנדס ישנים	7
+49134	subj_rel	49134	24567	unexpected	placeholder	ה יועצים ש מכירים את ה מהנדס ישן	7
+49561	subj_rel	49561	24781	expected	placeholder	ה מלצרים ש מכירים את ה טכנאי רוקדים	7
+49562	subj_rel	49562	24781	unexpected	placeholder	ה מלצרים ש מכירים את ה טכנאי רוקד	7
+50195	subj_rel	50195	25098	expected	placeholder	ה נהגים ש מכירים את ה מלחין רצים	7
+50196	subj_rel	50196	25098	unexpected	placeholder	ה נהגים ש מכירים את ה מלחין רץ	7
+50807	subj_rel	50807	25404	expected	placeholder	ה יועצים ש מכירים את ה שומרים רוקדים	7
+50808	subj_rel	50808	25404	unexpected	placeholder	ה יועצים ש מכירים את ה שומרים רוקד	7
+51135	subj_rel	51135	25568	expected	placeholder	ה חקלאים ש שונאים את ה שרים ישנים	7
+51136	subj_rel	51136	25568	unexpected	placeholder	ה חקלאים ש שונאים את ה שרים ישן	7
+52019	subj_rel	52019	26010	expected	placeholder	ה נהגים ש מעריצים את ה עובדים שוחים	7
+52020	subj_rel	52020	26010	unexpected	placeholder	ה נהגים ש מעריצים את ה עובדים שוחה	7
+52243	subj_rel	52243	26122	expected	placeholder	ה מנהלים ש שונאים את ה זמרים שוחים	7
+52244	subj_rel	52244	26122	unexpected	placeholder	ה מנהלים ש שונאים את ה זמרים שוחה	7
+52525	subj_rel	52525	26263	expected	placeholder	ה מנהלים ש מעריצים את ה זמרים חיים	7
+52526	subj_rel	52526	26263	unexpected	placeholder	ה מנהלים ש מעריצים את ה זמרים חי	7
+53193	subj_rel	53193	26597	expected	placeholder	ה יועצים ש מעריצים את ה נהגים ישנים	7
+53194	subj_rel	53194	26597	unexpected	placeholder	ה יועצים ש מעריצים את ה נהגים ישן	7
+53429	subj_rel	53429	26715	expected	placeholder	ה חיילים ש שונאים את ה רקדנים רצים	7
+53430	subj_rel	53430	26715	unexpected	placeholder	ה חיילים ש שונאים את ה רקדנים רץ	7
+53491	subj_rel	53491	26746	expected	placeholder	ה מלצרים ש מכירים את ה רקדנים חיים	7
+53492	subj_rel	53492	26746	unexpected	placeholder	ה מלצרים ש מכירים את ה רקדנים חי	7
+54145	subj_rel	54145	27073	expected	placeholder	ה קצינים ש מכירים את ה בנאים ישנים	7
+54146	subj_rel	54146	27073	unexpected	placeholder	ה קצינים ש מכירים את ה בנאים ישן	7
+54351	subj_rel	54351	27176	expected	placeholder	ה חקלאים ש אוהבים את ה מהנדסים נוסעים	7
+54352	subj_rel	54352	27176	unexpected	placeholder	ה חקלאים ש אוהבים את ה מהנדסים נוסע	7
+54501	subj_rel	54501	27251	expected	placeholder	ה חקלאים ש שונאים את ה מהנדסים צוחקים	7
+54502	subj_rel	54502	27251	unexpected	placeholder	ה חקלאים ש שונאים את ה מהנדסים צוחק	7
+54649	subj_rel	54649	27325	expected	placeholder	ה רופאים ש מכירים את ה מהנדסים ישנים	7
+54650	subj_rel	54650	27325	unexpected	placeholder	ה רופאים ש מכירים את ה מהנדסים ישן	7
+55273	subj_rel	55273	27637	expected	placeholder	ה טייסים ש מכירים את ה טכנאים רוקדים	7
+55274	subj_rel	55274	27637	unexpected	placeholder	ה טייסים ש מכירים את ה טכנאים רוקד	7
+55835	subj_rel	55835	27918	expected	placeholder	ה טייסים ש מכירים את ה מלחינים נוסעים	7
+55836	subj_rel	55836	27918	unexpected	placeholder	ה טייסים ש מכירים את ה מלחינים נוסע	7
+56467	obj_rel_within_anim	56467	28234	expected	placeholder	ה טייס ש ה רקדן שונא רוקד	5
+56468	obj_rel_within_anim	56468	28234	unexpected	placeholder	ה טייס ש ה רקדן שונאים רוקד	5
+57489	obj_rel_within_anim	57489	28745	expected	placeholder	ה חייל ש ה טכנאי אוהב נוסע	5
+57490	obj_rel_within_anim	57490	28745	unexpected	placeholder	ה חייל ש ה טכנאי אוהבים נוסע	5
+57897	obj_rel_within_anim	57897	28949	expected	placeholder	ה קצין ש ה זמר אוהב רץ	5
+57898	obj_rel_within_anim	57898	28949	unexpected	placeholder	ה קצין ש ה זמר אוהבים רץ	5
+58897	obj_rel_within_anim	58897	29449	expected	placeholder	ה חקלאי ש ה בנאי אוהב ישן	5
+58898	obj_rel_within_anim	58898	29449	unexpected	placeholder	ה חקלאי ש ה בנאי אוהבים ישן	5
+58903	obj_rel_within_anim	58903	29452	expected	placeholder	ה חקלאי ש ה בנאי מעריץ ישן	5
+58904	obj_rel_within_anim	58904	29452	unexpected	placeholder	ה חקלאי ש ה בנאי מעריצים ישן	5
+60219	obj_rel_within_anim	60219	30110	expected	placeholder	ה קצין ש ה עובד שונא חי	5
+60220	obj_rel_within_anim	60220	30110	unexpected	placeholder	ה קצין ש ה עובד שונאים חי	5
+60599	obj_rel_within_anim	60599	30300	expected	placeholder	ה טבח ש ה מהנדס מעריץ חי	5
+60600	obj_rel_within_anim	60600	30300	unexpected	placeholder	ה טבח ש ה מהנדס מעריצים חי	5
+61467	obj_rel_within_anim	61467	30734	expected	placeholder	ה רופא ש ה טכנאי שונא צוחק	5
+61468	obj_rel_within_anim	61468	30734	unexpected	placeholder	ה רופא ש ה טכנאי שונאים צוחק	5
+61739	obj_rel_within_anim	61739	30870	expected	placeholder	ה קצין ש ה שרים שונאים רוקד	5
+61740	obj_rel_within_anim	61740	30870	unexpected	placeholder	ה קצין ש ה שרים שונא רוקד	5
+62315	obj_rel_within_anim	62315	31158	expected	placeholder	ה יועץ ש ה טכנאים שונאים רוקד	5
+62316	obj_rel_within_anim	62316	31158	unexpected	placeholder	ה יועץ ש ה טכנאים שונא רוקד	5
+63733	obj_rel_within_anim	63733	31867	expected	placeholder	ה חייל ש ה בנאים מכירים רץ	5
+63734	obj_rel_within_anim	63734	31867	unexpected	placeholder	ה חייל ש ה בנאים מכיר רץ	5
+63737	obj_rel_within_anim	63737	31869	expected	placeholder	ה קצין ש ה בנאים אוהבים רץ	5
+63738	obj_rel_within_anim	63738	31869	unexpected	placeholder	ה קצין ש ה בנאים אוהב רץ	5
+64489	obj_rel_within_anim	64489	32245	expected	placeholder	ה מנהל ש ה בנאים אוהבים ישן	5
+64490	obj_rel_within_anim	64490	32245	unexpected	placeholder	ה מנהל ש ה בנאים אוהב ישן	5
+65047	obj_rel_within_anim	65047	32524	expected	placeholder	ה מלצר ש ה זמרים מעריצים שוחה	5
+65048	obj_rel_within_anim	65048	32524	unexpected	placeholder	ה מלצר ש ה זמרים מעריץ שוחה	5
+65159	obj_rel_within_anim	65159	32580	expected	placeholder	ה טבח ש ה נהגים מעריצים שוחה	5
+65160	obj_rel_within_anim	65160	32580	unexpected	placeholder	ה טבח ש ה נהגים מעריץ שוחה	5
+66245	obj_rel_within_anim	66245	33123	expected	placeholder	ה מלצר ש ה טכנאים מכירים חי	5
+66246	obj_rel_within_anim	66246	33123	unexpected	placeholder	ה מלצר ש ה טכנאים מכיר חי	5
+66777	obj_rel_within_anim	66777	33389	expected	placeholder	ה קצין ש ה נהגים אוהבים צוחק	5
+66778	obj_rel_within_anim	66778	33389	unexpected	placeholder	ה קצין ש ה נהגים אוהב צוחק	5
+67063	obj_rel_within_anim	67063	33532	expected	placeholder	ה חקלאי ש ה טכנאים מעריצים צוחק	5
+67064	obj_rel_within_anim	67064	33532	unexpected	placeholder	ה חקלאי ש ה טכנאים מעריץ צוחק	5
+68473	obj_rel_within_anim	68473	34237	expected	placeholder	ה יועצים ש ה רקדן אוהב נוסעים	5
+68474	obj_rel_within_anim	68474	34237	unexpected	placeholder	ה יועצים ש ה רקדן אוהבים נוסעים	5
+69833	obj_rel_within_anim	69833	34917	expected	placeholder	ה יועצים ש ה עובד אוהב ישנים	5
+69834	obj_rel_within_anim	69834	34917	unexpected	placeholder	ה יועצים ש ה עובד אוהבים ישנים	5
+69973	obj_rel_within_anim	69973	34987	expected	placeholder	ה חיילים ש ה נהג מכיר ישנים	5
+69974	obj_rel_within_anim	69974	34987	unexpected	placeholder	ה חיילים ש ה נהג מכירים ישנים	5
+70129	obj_rel_within_anim	70129	35065	expected	placeholder	ה חיילים ש ה בנאי אוהב ישנים	5
+70130	obj_rel_within_anim	70130	35065	unexpected	placeholder	ה חיילים ש ה בנאי אוהבים ישנים	5
+71079	obj_rel_within_anim	71079	35540	expected	placeholder	ה טבחים ש ה טכנאי מעריץ שוחים	5
+71080	obj_rel_within_anim	71080	35540	unexpected	placeholder	ה טבחים ש ה טכנאי מעריצים שוחים	5
+71307	obj_rel_within_anim	71307	35654	expected	placeholder	ה רופאים ש ה שר שונא חיים	5
+71308	obj_rel_within_anim	71308	35654	unexpected	placeholder	ה רופאים ש ה שר שונאים חיים	5
+71345	obj_rel_within_anim	71345	35673	expected	placeholder	ה טייסים ש ה שר אוהב חיים	5
+71346	obj_rel_within_anim	71346	35673	unexpected	placeholder	ה טייסים ש ה שר אוהבים חיים	5
+72727	obj_rel_within_anim	72727	36364	expected	placeholder	ה מלצרים ש ה מלחין מעריץ צוחקים	5
+72728	obj_rel_within_anim	72728	36364	unexpected	placeholder	ה מלצרים ש ה מלחין מעריצים צוחקים	5
+72841	obj_rel_within_anim	72841	36421	expected	placeholder	ה נהגים ש ה שומרים אוהבים רוקדים	5
+72842	obj_rel_within_anim	72842	36421	unexpected	placeholder	ה נהגים ש ה שומרים אוהב רוקדים	5
+72965	obj_rel_within_anim	72965	36483	expected	placeholder	ה מלצרים ש ה עובדים מכירים רוקדים	5
+72966	obj_rel_within_anim	72966	36483	unexpected	placeholder	ה מלצרים ש ה עובדים מכיר רוקדים	5
+73021	obj_rel_within_anim	73021	36511	expected	placeholder	ה קצינים ש ה עובדים מכירים רוקדים	5
+73022	obj_rel_within_anim	73022	36511	unexpected	placeholder	ה קצינים ש ה עובדים מכיר רוקדים	5
+73479	obj_rel_within_anim	73479	36740	expected	placeholder	ה טבחים ש ה טכנאים מעריצים רוקדים	5
+73480	obj_rel_within_anim	73480	36740	unexpected	placeholder	ה טבחים ש ה טכנאים מעריץ רוקדים	5
+73975	obj_rel_within_anim	73975	36988	expected	placeholder	ה חיילים ש ה נהגים מעריצים נוסעים	5
+73976	obj_rel_within_anim	73976	36988	unexpected	placeholder	ה חיילים ש ה נהגים מעריץ נוסעים	5
+75541	obj_rel_within_anim	75541	37771	expected	placeholder	ה חקלאים ש ה נהגים מכירים ישנים	5
+75542	obj_rel_within_anim	75542	37771	unexpected	placeholder	ה חקלאים ש ה נהגים מכיר ישנים	5
+76189	obj_rel_within_anim	76189	38095	expected	placeholder	ה רופאים ש ה עובדים מכירים שוחים	5
+76190	obj_rel_within_anim	76190	38095	unexpected	placeholder	ה רופאים ש ה עובדים מכיר שוחים	5
+76897	obj_rel_within_anim	76897	38449	expected	placeholder	ה חקלאים ש ה שרים אוהבים חיים	5
+76898	obj_rel_within_anim	76898	38449	unexpected	placeholder	ה חקלאים ש ה שרים אוהב חיים	5
+78283	obj_rel_within_anim	78283	39142	expected	placeholder	ה נהגים ש ה טכנאים שונאים צוחקים	5
+78284	obj_rel_within_anim	78284	39142	unexpected	placeholder	ה נהגים ש ה טכנאים שונא צוחקים	5
+78291	obj_rel_within_anim	78291	39146	expected	placeholder	ה חיילים ש ה טכנאים שונאים צוחקים	5
+78292	obj_rel_within_anim	78292	39146	unexpected	placeholder	ה חיילים ש ה טכנאים שונא צוחקים	5
+78707	vp_coord	78707	39354	expected	placeholder	ה מנהל רץ ו צוחק	4
+78708	vp_coord	78708	39354	unexpected	placeholder	ה מנהל רץ ו צוחקים	4
+79359	vp_coord	79359	39680	expected	placeholder	ה טייס צוחק ו שותה	4
+79360	vp_coord	79360	39680	unexpected	placeholder	ה טייס צוחק ו שותים	4
+79693	vp_coord	79693	39847	expected	placeholder	ה חקלאים רצים ו אוכלים	4
+79694	vp_coord	79694	39847	unexpected	placeholder	ה חקלאים רצים ו אוכל	4
+80031	vp_coord	80031	40016	expected	placeholder	ה חיילים שוחים ו שותים	4
+80032	vp_coord	80032	40016	unexpected	placeholder	ה חיילים שוחים ו שותה	4
+80325	vp_coord	80325	40163	expected	placeholder	ה קצינים צוחקים ו שותים	4
+80326	vp_coord	80326	40163	unexpected	placeholder	ה קצינים צוחקים ו שותה	4
+80759	long_vp_coord	80759	40380	expected	placeholder	ה יועץ משחק כדורגל עם חברים ו כותב ב יומן מדי יום	7
+80760	long_vp_coord	80760	40380	unexpected	placeholder	ה יועץ משחק כדורגל עם חברים ו כותבים ב יומן מדי יום	7
+80995	long_vp_coord	80995	40498	expected	placeholder	ה רופאים אוהבים לצפות ב תוכניות טלוויזיה ו גרים ב מרכז ה עיר	8
+80996	long_vp_coord	80996	40498	unexpected	placeholder	ה רופאים אוהבים לצפות ב תוכניות טלוויזיה ו גר ב מרכז ה עיר	8
