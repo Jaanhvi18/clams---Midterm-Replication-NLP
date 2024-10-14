@@ -1,0 +1,8 @@
+	model	condition	microdiff	macrodiff	acc
+0	google-bert/bert-base-uncased	long_vp_coord	7.382587454528548	7.382587454528548	0.98
+1	google-bert/bert-base-uncased	obj_rel_across_anim	2.432262581254888	2.432262581254888	0.740625
+2	google-bert/bert-base-uncased	obj_rel_within_anim	5.087072760683909	5.087072760683909	0.8308928571428571
+3	google-bert/bert-base-uncased	prep_anim	3.0553089533905897	3.0553089533905897	0.7204761904761905
+4	google-bert/bert-base-uncased	simple_agrmt	5.559784723392554	5.559784723392554	0.7857142857142857
+5	google-bert/bert-base-uncased	subj_rel	3.3141186446131075	3.3141186446131075	0.7616964285714286
+6	google-bert/bert-base-uncased	vp_coord	5.435494296465602	5.435494296465602	0.8857142857142857
