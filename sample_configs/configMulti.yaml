@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+  hf_masked_model:
+    - google-bert/bert-base-multilingual-cased
+        
+datafpath: /home/jagarwal/NLPScholar/dataset/english_updated.tsv
+
+predfpath: /home/jagarwal/NLPScholar/dataset/eval/english_updated.tsv
+
+resultsfpath: /home/jagarwal/NLPScholar/dataset/analyze/english_updated.tsv
+
+pred_measure: surp
+
+batchSize: 1000
