@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+  hf_masked_model:
+    - google-bert/bert-base-uncased
+        
+datafpath: /home/jagarwal/NLPScholar/dataset/english_updated.tsv
+
+predfpath: /home/jagarwal/NLPScholar/dataset/eval/mono_english_updated.tsv
+
+resultsfpath: /home/jagarwal/NLPScholar/dataset/analyze/mono_english_updated.tsv
+
+pred_measure: surp
+
+batchSize: 1000
