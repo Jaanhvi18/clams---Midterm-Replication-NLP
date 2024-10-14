@@ -10,6 +10,20 @@ os.makedirs(output_folder, exist_ok=True)
 file_paths = glob.glob(os.path.join(input_folder, "*.tsv"))
 
 
+def find_first_different_word(sentence1, sentence2):
+    words1 = sentence1.split()
+    words2 = sentence2.split()
+
+    differ = difflib.Differ()
+    diff = list(differ.compare(words1, words2))
+
+    for i, word in enumerate(diff):
+        if word.startswith("- "):
+            return word.removeprefix("-")
+
+    return None
+
+
 def find_first_different_word_index(sentence1, sentence2):
     words1 = sentence1.split()
     words2 = sentence2.split()
@@ -39,16 +53,17 @@ for file_path in file_paths:
         if len(sentence_pair) == 2:
             sentence1 = sentence_pair.iloc[0]["sentence"]
             sentence2 = sentence_pair.iloc[1]["sentence"]
-
+            diff_word = find_first_different_word(sentence1, sentence2)
+            # print(diff_word)
             diff_index = find_first_different_word_index(sentence1, sentence2)
             updated_rows.append(
                 {
                     "sentid": sentence_pair.iloc[0]["sentid"],
                     "condition": sentence_pair.iloc[0]["condition"],
-                    "contextid": sentence_pair.iloc[0]["contextid"],
+                    "contextid": sentence_pair.iloc[0]["pairid"],
                     "pairid": sentence_pair.iloc[0]["pairid"],
                     "comparison": sentence_pair.iloc[0]["comparison"],
-                    "lemma": sentence_pair.iloc[0]["lemma"],
+                    "lemma": diff_word,
                     "sentence": sentence1,
                     "ROI": diff_index,
                 }
@@ -59,10 +74,10 @@ for file_path in file_paths:
                 {
                     "sentid": sentence_pair.iloc[1]["sentid"],
                     "condition": sentence_pair.iloc[1]["condition"],
-                    "contextid": sentence_pair.iloc[1]["contextid"],
+                    "contextid": sentence_pair.iloc[0]["pairid"],
                     "pairid": sentence_pair.iloc[1]["pairid"],
                     "comparison": sentence_pair.iloc[1]["comparison"],
-                    "lemma": sentence_pair.iloc[1]["lemma"],
+                    "lemma": diff_word,
                     "sentence": sentence2,
                     "ROI": diff_index,
                 }
@@ -74,3 +89,4 @@ for file_path in file_paths:
     updated_df.to_csv(output_csv_path, sep="\t", index=False)
 
     print(f"Updated TSV saved for {language} at: {output_csv_path}")
+
