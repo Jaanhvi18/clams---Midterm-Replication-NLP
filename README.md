@@ -15,9 +15,9 @@ The results used for this project can be accessed via the following [Google Driv
 
 The results used for this project can be accessed via the following [Google Drive link](https://drive.google.com/drive/folders/1QVZz8awg904a5IjeCWXsZcSIiajHJCKU?usp=drive_link).
 
-**CLAMS Datset before preprocessing**:  
+** *Original* CLAMS Datset Access**:  
 
-The original CLAMS dataset can be accessed here [Github Link](https://github.com/aaronmueller/clams.git).
+The original CLAMS dataset before any preprocessing can be accessed here [Github Link](https://github.com/aaronmueller/clams.git).
 
 
 
